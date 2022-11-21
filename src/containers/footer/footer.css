@@ -1,0 +1,57 @@
+.footer {
+  margin-top: auto;
+  height: 10rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: stretch;
+  gap: 2rem;
+  padding: 0 1rem;
+  justify-content: space-between;
+  display: flex;
+  box-shadow: 1px 1px 3px #777;
+ font-size: small;
+ 
+ 
+}
+.socialBox{
+  width: 5rem;
+  height:5rem ;
+  margin-left: auto;
+  display: flex;
+  justify-content: center;
+  padding-top: 2rem;
+
+}
+
+.facebook, .insta{
+  padding-top: 2rem;
+  
+
+}
+.detailsBox{
+  width: 6rem;
+  margin-right: auto;
+  text-align: left;
+  padding: 2rem 0 1rem 0;
+}
+.logo{
+  margin-left: auto;
+  margin-left: 0;
+  height: 5rem;
+ 
+}
+
+.insta:hover{
+  color: #C13584;
+  
+}
+.insta:active{
+  color: #C13584;
+   
+}
+.facebook:hover{
+  color:#3B5998;
+}
+.facebook:active{
+  color: #3B5998;
+}
